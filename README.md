@@ -164,4 +164,5 @@ rm -rf recibos/*.csv
 (Windows: apague pela interface do Explorer ou PowerShell `Remove-Item`.)
 
 
-
+![Diagrama Diretórios](images/diagramadir.jpeg)
+![Diagrama Explicativo](images/diagramaexp.jpeg)
