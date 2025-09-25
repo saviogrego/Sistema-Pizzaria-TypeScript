@@ -3,7 +3,7 @@ Feito por:
 - Sávio Gabriel Grego Pereira - RA: 2510472
 - Gabriel de Oliveira - RA: 2507887
 
-Projeto CLI (terminal) simples para gerenciar **clientes**, **produtos**, **pedidos**, **confirmação/pagamento** e **relatórios**. Os dados são persistidos em CSV em `dados/` e os relatórios/recibos em `recibos/`. Ideal para trabalhos didáticos ou TCCs.
+Projeto CLI (terminal) simples para gerenciar **clientes**, **produtos**, **pedidos**, **confirmação/pagamento** e **relatórios**. Os dados são persistidos em CSV em `dados/` e os relatórios/recibos em `recibos/`. 
 
 ---
 
