@@ -3,3 +3,4 @@ id,cliente,produtos,total,pagamento,data
 1,gabriel,"coca cola",12.00,pix,2025-09-25T08:29:19.322Z
 3,pedrinho,"pizza de frango;coca cola",112.00,credito,2025-09-25T08:30:23.181Z
 1,Sa´vio Grego,"coca cola;pepsi",23.00,pix,2025-09-25T08:44:22.541Z
+2,Popovici,"pizza de queijo;pizza de queijo;pizza de queijo",300.00,pix,2025-09-25T23:18:49.652Z
